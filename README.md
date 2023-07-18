@@ -15,7 +15,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/zhen521/zhen521/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/Pake/releases/tag/V1.0.6' target='_blank'>Pake Daily updates</a> - 2023-03-06
@@ -30,7 +30,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://zstdlc.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://tw93.fun/2023-01-25/alacritty.html' target='_blank'>改良了下传说中最快的终端</a> - 2023-01-25
@@ -43,7 +43,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
+#### 🩴 <a href="https://hjha.cc" target="_blank">Trend Weekly</a>
 
 <!-- weekly starts -->
 
